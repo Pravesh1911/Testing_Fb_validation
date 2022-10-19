@@ -6,6 +6,7 @@ public class Fb_class {
 		// TODO Auto-generated method stub
 		System.out.println("hiiiiii");
 		System.out.println("hello all");
+		System.out.println("kundan");
 	}
 
 }
