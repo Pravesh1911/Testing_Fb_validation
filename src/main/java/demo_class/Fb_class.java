@@ -9,6 +9,7 @@ public class Fb_class {
 		System.out.println("kundan");
 		System.out.println("krishna");
 		System.out.println("pushpak");
+		System.out.println("good night");
 	
 	}
 
