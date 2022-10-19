@@ -7,7 +7,7 @@ public class Fb_class {
 		System.out.println("hiiiiii");
 		System.out.println("hello all");
 		System.out.println("kundan");
-		System.out.println("added by krishna");
+		System.out.println("Added by krishna");
 	}
 
 }
